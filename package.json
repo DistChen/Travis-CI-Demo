@@ -1,0 +1,19 @@
+{
+  "name": "traviscidemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DistChen/Travis-CI-Demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DistChen/Travis-CI-Demo/issues"
+  },
+  "homepage": "https://github.com/DistChen/Travis-CI-Demo#readme"
+}
