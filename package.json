@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "mocha test.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DistChen/Travis-CI-Demo/issues"
   },
-  "homepage": "https://github.com/DistChen/Travis-CI-Demo#readme"
+  "homepage": "https://github.com/DistChen/Travis-CI-Demo#readme",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
 }
